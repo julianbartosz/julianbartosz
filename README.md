@@ -23,7 +23,7 @@ I like all things computers. I'm a university student learning Computer Science.
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&style=for-the-badge&logo=visual-studio-code&logoWidth=18)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?&style=for-the-badge&logo=eclipse&logoColor=white&logoWidth=18)
 <br />
-### Tools I'm Affixing
+### Tools I'm Adding
 ![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust&logoColor=white&logoWidth=18)
 ![Go](https://img.shields.io/badge/Go-00ADD8?&style=for-the-badge&logo=go&logoColor=white&logoWidth=18)
 <br /><br />
