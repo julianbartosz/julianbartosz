@@ -6,7 +6,7 @@ I like all things computers. I'm a university student learning Computer Science.
 ### Get in touch
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartoszjul@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianbartosz)
-[![](https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)]()<br />
+[![](https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://julianbartosz.dev)<br />
 
 ### My Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white&logoWidth=15)
