@@ -30,6 +30,7 @@ I like all things computers. I'm a university student learning Computer Science.
 
 ### My Favorite Project Repos
 * <a href="https://github.com/julianbartosz/CVSite">Personal Site</a>
+* <a href="https://github.com/julianbartosz/artistsite">Artist Site</a>
 * <a href="https://github.com/julianbartosz/UPlant">UPlant</a> - Gardening Site that lets you visualize your garden plot and meet it's needs with scheduled notifications.
 * <a href="https://github.com/julianbartosz/phobiawarning.com">PhobiaWarning</a> - Movie Site where you can find new movies or user curated lists to engage with phobias or steer clear of them.
 <br /><br />
